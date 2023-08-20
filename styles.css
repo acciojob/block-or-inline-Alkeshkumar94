@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+ .block-inline-button {
+    display: inline-block;
+  }
+  .block-inline-div {
+    display: block;
+  }
+  .block-inline-p,
+  .block-inline-cite,
+  .block-inline-code,
+  .block-inline-h1,
+  .block-inline-sup,
+  .block-inline-sub {
+    display: block;
+  }
+  .block-inline-input {
+    display: inline;
+  }
